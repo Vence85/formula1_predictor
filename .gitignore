@@ -3,6 +3,10 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+#dbeaver
+*.dbeaver
+*.project
+
 # dotenv files
 .env
 venv
