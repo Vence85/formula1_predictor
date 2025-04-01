@@ -4,15 +4,16 @@
 
 Skapa ett program som förutspår resultatet av nästa F1-race baserat på data från säsongen 2022 och framåt.
 
-✅ Steg 1 – Datahantering [ ]
+✅ Steg 1 – Datahantering [x]
 - [x] Hitta bra data
-- [x] Vilkas säsonger ska datan hämtas ifrån - 2022 och frammåt
-- [ ] Vilka csv-filer är viktiga
-- [ ] Hitta data om vadäerförhållanden
+- [x] Vilkas säsonger ska datan hämtas ifrån (2022 och frammåt)
+- [x] Vilka csv-filer är viktiga (alla)
+- [x] Hitta data om väderförhållanden - Väntar med väderdata (Väntas med)
 
 
 🧼 Steg 2 – Datatransformering [ ]
-- [ ]
+- [ ] JOINA tabeller
+- [ ] Skapa en tabell 
 
 
 📊 Steg 3 – Visualisering [ ]
@@ -32,7 +33,7 @@ Skapa ett program som förutspår resultatet av nästa F1-race baserat på data 
 
 
 🧠 Övrigt
-
+- [ ] Lägga till väderdata för alla race vid ett senare tillfälle?
 
 
 
