@@ -12,6 +12,7 @@ Skapa ett program som förutspår resultatet av nästa F1-race baserat på data 
 
 
 🧼 Steg 2 – Datatransformering [ ]
+- [x] Skapa er-diagram
 - [ ] JOINA tabeller
 - [ ] Skapa en tabell 
 
